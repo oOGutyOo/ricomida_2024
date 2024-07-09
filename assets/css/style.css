@@ -1,0 +1,116 @@
+Body {
+    font-family: "Cabin", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+  }
+
+#suscribete, footer  {
+    font-family: "Lobster", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+.navbar{
+  background-color: #373A3C;
+  color: #FFFFFF;
+}
+.navbar-brand{
+  color: #FFFFFF;
+  font-family: "Lobster", sans-serif;
+  font-size: 37pt;
+}
+.nav-link{
+  color: #FFFFFF !important;
+  text-align: right;
+}
+  
+
+.botonI-1, .botonI-2{
+  width: 16px;
+  height: 16px;
+  border-radius: 16px;
+  color: #373A3C31;
+  background-color: #373A3C31;
+  border: none;
+}
+.vista-activa{
+  background-color: #373A3C;
+}
+
+.custom-card2{
+  text-align: left;
+  font-size: 40pt;
+}
+.pheader{
+  text-align: left;
+  font-family: "Cabin", sans-serif;
+  font-size: 40pt;
+  color: #373A3C;
+}
+.pcheader{
+  text-align: left;
+  font-family: "Cabin", sans-serif;
+  font-size: 20pt;
+  color: #373A3C;
+}
+.botones{
+  text-align: left;
+}
+.btn-light{
+  border-color: #DDDDDD; /* Color del borde */
+  color: #373A3C; /* Color del texto */
+  margin-right: 25px;
+  font-size: 16pt;
+}
+
+
+.custom-hr {
+  border: 0;
+  background-color: black; /* Color de la línea */
+  height: 2px; /* Grosor del <hr> /
+  background: #007bff; / Color del <hr> */
+}
+#recetas N{
+  font-family: "Cabin", sans-serif;
+  font-size: 23pt;
+}
+#recetas NC{
+  font-family: "Cabin", sans-serif;
+  font-size: 16pt;
+}
+.custom-card{
+  height: 380px;
+}
+
+
+#suscribete{
+  background-color: #DC3545;
+  color: #FFFFFF;
+  padding: 50px;
+}
+#suscribete h2, .recetas {
+  font-family: "Cabin", sans-serif;
+}
+#suscribete span{
+  font-family: "Lobster", sans-serif;
+}
+.btn-transparent{
+  background-color: transparent;
+  color: #FFFFFF;
+  border: 2px solid white;
+  font-family: "Cabin", sans-serif;
+}
+.btn-wide{
+  width: 250px;
+}
+
+footer{
+  color: #FFFFFF;
+  background-color:#373A3C;
+  font-family: "Lobster", sans-serif;
+  padding: 20px;
+  text-align: center;
+  font-size: 37pt;
+}
